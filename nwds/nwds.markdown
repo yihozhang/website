@@ -46,8 +46,8 @@ Jun Yang is currently the Bishop-MacDermott Family Professor of Computer Science
 
 ---
 
-<p><a name="Luca_Scheerer_2024_03_05"></a>
-<strong>Speaker</strong>: Luca Scheerer
+<p><a href="https://www.youtube.com/watch?v=4hhO4pNi7UQ" name="Luca_Scheerer_2024_03_05"></a>
+<strong>Speaker</strong>: <a href="https://www.youtube.com/watch?v=4hhO4pNi7UQ">Luca Scheerer</a>
 </p>
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
@@ -68,6 +68,8 @@ QirK seeks to bridge the gap between the capabilities of Large Language Models (
 <p><strong>Bio</strong>:
 Luca Scheerer is a second year Computer Science MSc student at ETH Zurich specializing in data systems and the intersection of systems and machine learning. He has interned at Google working on their internal knowledge graph and at the market maker Citadel Securities.
 </p>
+
+<a href="https://www.youtube.com/watch?v=4hhO4pNi7UQ">Recording</a>
 
 ---
 
