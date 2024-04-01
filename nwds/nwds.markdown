@@ -47,7 +47,7 @@ Jun Yang is currently the Bishop-MacDermott Family Professor of Computer Science
 ---
 
 <p><a href="https://www.youtube.com/watch?v=4hhO4pNi7UQ" name="Luca_Scheerer_2024_03_05"></a>
-<strong>Speaker</strong>: <a href="https://www.youtube.com/watch?v=4hhO4pNi7UQ">Luca Scheerer</a>
+<strong>Speaker</strong>: <a href="https://www.jlscheerer.me/">Luca Scheerer</a>
 </p>
 
 <p><strong>Where</strong>: University of Washington, Seattle.<br>
@@ -103,6 +103,8 @@ In this talk we provide insights into the fascinating world of applying natural 
 Kurt Stockinger is currently a Visiting Scholar at University of Washington. In his parallel life across the Atlantic, he is a Professor of Computer Science, Director of Studies in Data Science and Head of the Intelligent Information Systems Group. He is also an external lecturer at University of Zurich. Kurt Stockinger's research focuses on Data Science with emphasis on Big Data, Natural Language Query Processing, Query Optimization and Quantum Computing. Essentially, his research interests are at the intersection of databases, natural language processing and machine learning. Previously Kurt Stockinger worked at Credit Suisse in Zurich, Switzerland, at Lawrence Berkeley National Laboratory in Berkeley, California, at California Institute of Technology, California as well as at CERN in Geneva, Switzerland. He holds a Ph.D. in computer science from CERN / University of Vienna.
 </p>
 
+<a href="https://www.youtube.com/watch?v=HkburfMt-0o">Recording</a>
+
 ---
 
 <p><a name="Faisal_Nawab_2024_02_02"></a>
@@ -152,6 +154,8 @@ In my 44 years building software, technology trends have dramatically changed wh
 <p><strong>Bio</strong>:
 Pat Helland has been building distributed systems, database systems, high-performance messaging systems, and multiprocessors since 1978, shortly after dropping out of UC Irvine without a bachelor's degree. That hasn't stopped him from having a passion for academics and publication. From 1982 to 1990, Pat was the chief architect for TMF (Transaction Monitoring Facility), the transaction logging and recovery systems for NonStop SQL, a message-based fault-tolerant system providing high-availability solutions for business critical solutions. In 1991, he moved to HaL Computers where he was chief architect for the Mercury Interconnect Architecture, a cache-coherent non-uniform memory architecture multiprocessor. In 1994, Pat moved to Microsoft to help the company develop a business providing enterprise software solutions. He was chief architect for MTS (Microsoft Transaction Server) and DTC (Distributed Transaction Coordinator). Starting in 2000, Pat began the SQL Service Broker project, a high-performance transactional exactly-once in-order message processing and app execution engine built deeply into Microsoft SQL Server 2005. From 2005-2007, he worked at Amazon on scalable enterprise solutions, scale-out user facing services, integrating product catalog feeds from millions of sellers, and highly-available eventually consistent storage. From 2007 to 2011, Pat was back at Microsoft working on a number of projects including Structured Streams in Cosmos. Structured streams kept metadata within the "big data" streams that were typically 10s of terabytes in size. This metadata allowed affinitized placement within the cluster as well as efficient joins across multiple streams. On launch, this doubled the work performed within the 250PB store. Pat also did the initial design for Baja, the distributed transaction support for a distributed event-processing engine implemented as an LSM atop structured streams providing transactional updates targeting the ingestion of "the entire web in one table" with changes visible in seconds. Starting in 2012, Pat has worked at Salesforce on database technology running within cloud environments. His current interests include latency bounding of online enterprise-grade transaction systems in the face of jitter, the management of metastability in complex environments, and zero-downtime upgrades to databases and stateful applications. In his spare time, Pat regularly writes for ACM Queue, Communications of the ACM, and various conferences. He has been deeply involved in the organization of the HPTS (High Performance Transactions Systems - www.hpts.ws) workshop since 1985. His blog is at pathelland.substack.com and he parsimoniously tweets with the handle @pathelland.
 </p>
+
+<a href="https://www.youtube.com/watch?v=xhsfPzY1ngs">Recording</a>
 
 ---
 
@@ -204,6 +208,8 @@ Recent years have seen an explosion in our ability to collect and catalog immens
 <p><strong>Bio</strong>:
 Juliana Freire is a Professor of Computer Science and Data Science at New York University.  She was the elected chair of the ACM Special Interest Group on Management of Data (SIGMOD), served as a council member of the Computing Research Association’s Computing Community Consortium (CCC), and was the NYU lead investigator for the Moore-Sloan Data Science Environment. She develops methods and systems that enable a wide range of users to obtain trustworthy insights from data. This spans topics in large-scale data analysis and integration, visualization, machine learning, provenance management, and web information discovery, and different application areas, including urban analytics, predictive modeling, and computational reproducibility. Freire has co-authored over 200 technical papers (including 11 award-winning publications), several open-source systems, and is an inventor of 12 U.S. patents. She is an ACM Fellow, a AAAS Fellow,  and a recipient of an NSF CAREER, two IBM Faculty awards, and a Google Faculty Research award.  She received the ACM SIGMOD Contributions Award in 2020. Her research has been funded by the National Science Foundation, DARPA, Department of Energy, National Institutes of Health, Sloan Foundation, Gordon and Betty Moore Foundation, W. M. Keck Foundation, Google, Amazon, AT&T Research, Microsoft Research, Yahoo! and IBM. She received a B.S. degree in computer science from the Federal University of Ceara (Brazil), and M.Sc. and Ph.D. degrees in computer science from the State University of New York at Stony Brook.
 </p>
+
+<a href="https://www.youtube.com/watch?v=9uc0JYpXyS4">Recording</a>
 
 ---
 
