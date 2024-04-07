@@ -22,6 +22,33 @@ Our past talks can be found on the NWDS [youtube channel](https://www.youtube.co
 
 ---
 
+<p><a name="Laurel_Orr_2024_04_12"></a>
+<strong>Speaker</strong>: <a href="https://lorr1.github.io/">Laurel Orr</a> </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 291</p>
+
+<p><strong>When</strong>:
+Thursday, April 12th, 2024, 2:30pm-3:30pm</p>
+
+<p><strong>Title</strong>:
+    From Text2SQL to Automating BI: The Coming Wave of LLM Analytic Agents
+</p>
+
+<p><strong>Abstract</strong>:
+Large Language Models (LLMs) have seemingly promised to democratize and automate data analytics since the early days of GPT-3. While we’ve seen numerous works apply LLMs to solve components of the data analytics pipelines — e.g. data cleaning, schema matching, and text-to-SQL — we have yet to really see LLMs take over and automate enterprise analytics. What are we missing? We argue that to automate analytics, you need to automate the full end-to-end workflow including steps after the user finishes their analysis. In this talk, we’ll introduce a new data stack for enterprise analytics built on LLM agents. To make this new agent data stack work, we’ll discuss how you first need to focus on building single agents that can solve isolated analytics tasks for enterprise data. We’ll then investigate how you can coordinate and plan across individual agents to automate end-to-end workflows. While LLM agents are still in their infancy, we believe the coming wave of agents holds promise to both automate classically hard data management problems and leverage data management solutions.
+</p>
+
+<p><strong>Bio</strong>:
+Laurel Orr is a researcher at Numbers Station working applying generative AI to data tasks. She graduated with a PhD in Databases and Data Management from Paul G Allen School for Computer Science and Engineering at the University of Washington and then was a PostDoc at Stanford working for Chris Ré in the HazyReserach Labs. Her research interests are broadly at the intersection of artifical intelligence, foundation models, and data management. She focuses on how to train, customize, and deploy foundation models to data tasks. This includes problems around data curation and management for RAG systems, efficient model training and inference for batch workloads, and prompting paradigms to for high performant, customized models.
+</p>
+
+
+
+
+---
+
 <p><a name="Jun_Yang_2024_04_11"></a>
 <strong>Speaker</strong>: <a href="https://users.cs.duke.edu/~junyang/">Jun Yang</a> </p>
 
