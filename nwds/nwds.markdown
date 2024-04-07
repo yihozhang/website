@@ -30,7 +30,7 @@ Allen School of Computer Science and Engineering.<br>
 Paul G. Allen Center, CSE 291</p>
 
 <p><strong>When</strong>:
-Thursday, April 12th, 2024, 2:30pm-3:30pm</p>
+Friday, April 12th, 2024, 2:30pm-3:30pm</p>
 
 <p><strong>Title</strong>:
     From Text2SQL to Automating BI: The Coming Wave of LLM Analytic Agents
