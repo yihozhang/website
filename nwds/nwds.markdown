@@ -44,7 +44,7 @@ Large Language Models (LLMs) have seemingly promised to democratize and automate
 Laurel Orr is a researcher at Numbers Station working applying generative AI to data tasks. She graduated with a PhD in Databases and Data Management from Paul G Allen School for Computer Science and Engineering at the University of Washington and then was a PostDoc at Stanford working for Chris Ré in the HazyReserach Labs. Her research interests are broadly at the intersection of artifical intelligence, foundation models, and data management. She focuses on how to train, customize, and deploy foundation models to data tasks. This includes problems around data curation and management for RAG systems, efficient model training and inference for batch workloads, and prompting paradigms to for high performant, customized models.
 </p>
 
-
+<a href="https://www.youtube.com/watch?v=BezSSdXO60I">Recording</a>
 
 
 ---
@@ -71,6 +71,8 @@ Declarative querying and automatic optimization are the cornerstones of the succ
 Jun Yang is currently the Bishop-MacDermott Family Professor of Computer Science at Duke University. He joined Duke after receiving his Ph.D. from Stanford in 2001 and chaired the Department of Computer Science at Duke during 2020-2023. He has broad research interests in databases and data-intensive systems. He is a Trustee of the VLDB Endowment and served as the general co-chair of SIGMOD 2017 and the co-Editor-in-Chief of PVLDB during 2022-2023. He is a recipient of the CAREER Award, IBM Faculty Award, HP Labs Innovation Research Award, and Google Faculty Research Award. He has striven to connect research to his other passions, such as journalism, where he has worked on computational fact-checking since its nascent days, and education, where he has built a number of software tools for learning databases. He received the David and Janet Vaughan Brooks Teaching Award at Duke.
 </p>
 
+<a href="https://www.youtube.com/watch?v=VCbEpBgNCDE">Recording</a>
+
 ---
 
 <p><a href="https://www.youtube.com/watch?v=4hhO4pNi7UQ" name="Luca_Scheerer_2024_03_05"></a>
@@ -85,7 +87,7 @@ Paul G. Allen Center, CSE 291</p>
 Friday, March 29, 2024, 2:30pm-3:30pm</p>
 
 <p><strong>Title</strong>:
-QirK: Question Answering via Intermediate Representation on Knowledge Graphs  
+QirK: Question Answering via Intermediate Representation on Knowledge Graphs
 </p>
 
 <p><strong>Abstract</strong>:
