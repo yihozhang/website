@@ -18,7 +18,121 @@ Our past talks can be found on the NWDS [youtube channel](https://www.youtube.co
 
 ---
 
+#### Spring 2024
+
+---
+
+<p><a name="Laurel_Orr_2024_04_12"></a>
+<strong>Speaker</strong>: <a href="https://lorr1.github.io/">Laurel Orr</a> </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 291</p>
+
+<p><strong>When</strong>:
+Friday, April 12th, 2024, 2:30pm-3:30pm</p>
+
+<p><strong>Title</strong>:
+    From Text2SQL to Automating BI: The Coming Wave of LLM Analytic Agents
+</p>
+
+<p><strong>Abstract</strong>:
+Large Language Models (LLMs) have seemingly promised to democratize and automate data analytics since the early days of GPT-3. While we’ve seen numerous works apply LLMs to solve components of the data analytics pipelines — e.g. data cleaning, schema matching, and text-to-SQL — we have yet to really see LLMs take over and automate enterprise analytics. What are we missing? We argue that to automate analytics, you need to automate the full end-to-end workflow including steps after the user finishes their analysis. In this talk, we’ll introduce a new data stack for enterprise analytics built on LLM agents. To make this new agent data stack work, we’ll discuss how you first need to focus on building single agents that can solve isolated analytics tasks for enterprise data. We’ll then investigate how you can coordinate and plan across individual agents to automate end-to-end workflows. While LLM agents are still in their infancy, we believe the coming wave of agents holds promise to both automate classically hard data management problems and leverage data management solutions.
+</p>
+
+<p><strong>Bio</strong>:
+Laurel Orr is a researcher at Numbers Station working applying generative AI to data tasks. She graduated with a PhD in Databases and Data Management from Paul G Allen School for Computer Science and Engineering at the University of Washington and then was a PostDoc at Stanford working for Chris Ré in the HazyReserach Labs. Her research interests are broadly at the intersection of artifical intelligence, foundation models, and data management. She focuses on how to train, customize, and deploy foundation models to data tasks. This includes problems around data curation and management for RAG systems, efficient model training and inference for batch workloads, and prompting paradigms to for high performant, customized models.
+</p>
+
+<a href="https://www.youtube.com/watch?v=BezSSdXO60I">Recording</a>
+
+
+---
+
+<p><a name="Jun_Yang_2024_04_11"></a>
+<strong>Speaker</strong>: <a href="https://users.cs.duke.edu/~junyang/">Jun Yang</a> </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 291</p>
+
+<p><strong>When</strong>:
+Thursday, April 11th, 2024, 3:30pm-4:30pm</p>
+
+<p><strong>Title</strong>:
+    What Teaching Databases Taught me about Researching Databases
+</p>
+
+<p><strong>Abstract</strong>:
+Declarative querying and automatic optimization are the cornerstones of the success and longevity of database systems, yet these concepts often pose challenges for novice learners accustomed to different coding paradigms. The transition is further hampered by the lack of query debugging tools (be it for correctness or performance) compared to the plethora available for programming languages. The talk samples several systems that we build at Duke University to help students learn and debug database queries. These systems have not only helped scale up teaching and improve learning, but also inspired research on interesting and fundamental questions concerning databases. Furthermore, with the rise of generative AI, we argue that there is a heightened need for skills in scrutinizing and debugging AI-generated queries, and we outline several ongoing and future work directions aimed at addressing this emerging challenge.
+</p>
+
+<p><strong>Bio</strong>:
+Jun Yang is currently the Bishop-MacDermott Family Professor of Computer Science at Duke University. He joined Duke after receiving his Ph.D. from Stanford in 2001 and chaired the Department of Computer Science at Duke during 2020-2023. He has broad research interests in databases and data-intensive systems. He is a Trustee of the VLDB Endowment and served as the general co-chair of SIGMOD 2017 and the co-Editor-in-Chief of PVLDB during 2022-2023. He is a recipient of the CAREER Award, IBM Faculty Award, HP Labs Innovation Research Award, and Google Faculty Research Award. He has striven to connect research to his other passions, such as journalism, where he has worked on computational fact-checking since its nascent days, and education, where he has built a number of software tools for learning databases. He received the David and Janet Vaughan Brooks Teaching Award at Duke.
+</p>
+
+<a href="https://www.youtube.com/watch?v=VCbEpBgNCDE">Recording</a>
+
+---
+
+<p><a href="https://www.youtube.com/watch?v=4hhO4pNi7UQ" name="Luca_Scheerer_2024_03_05"></a>
+<strong>Speaker</strong>: <a href="https://www.jlscheerer.me/">Luca Scheerer</a>
+</p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 291</p>
+
+<p><strong>When</strong>:
+Friday, March 29, 2024, 2:30pm-3:30pm</p>
+
+<p><strong>Title</strong>:
+QirK: Question Answering via Intermediate Representation on Knowledge Graphs
+</p>
+
+<p><strong>Abstract</strong>:
+QirK seeks to bridge the gap between the capabilities of Large Language Models (LLMs) and the structured interpretability of database systems, addressing the complexity of querying Knowledge Graphs. QirK enables users to interact with Knowledge Graphs by posing questions in natural language. This is achieved by mapping the input query to an intermediate representation (IR) via LLMs, then repairing it into a valid relational database query through semantic search on vector embeddings. By leveraging this IR, QirK can answer structurally complex questions that are still beyond the reach of emerging Large Language Models (LLMs) while ensuring complete and accurate results. This is a joint work by Luca Scheerer (ETH Zurich), Anton Lykov (UW), Moe Kayali (UW), Ilias Fountalis (RelationalAI), Nikolaos Vasiloglou (RelationalAI), Dan Olteanu (UZH), and Dan Suciu (UW).
+</p>
+
+<p><strong>Bio</strong>:
+Luca Scheerer is a second year Computer Science MSc student at ETH Zurich specializing in data systems and the intersection of systems and machine learning. He has interned at Google working on their internal knowledge graph and at the market maker Citadel Securities.
+</p>
+
+<a href="https://www.youtube.com/watch?v=4hhO4pNi7UQ">Recording</a>
+
+---
+
 #### Winter 2024
+
+---
+
+<p><a name="Kurt_Stockinger_2024_03_01"></a>
+<strong>Speaker</strong>: <a href="https://www.zhaw.ch/en/about-us/person/stog">Kurt Stockinger</a> </p>
+
+<p><strong>Where</strong>: University of Washington, Seattle.<br>
+Allen School of Computer Science and Engineering.<br>
+Paul G. Allen Center, CSE 291</p>
+
+<p><strong>When</strong>:
+Friday, March 1st, 2024, 2:30pm-3:30pm</p>
+
+<p><strong>Title</strong>:
+    Querying Databases in Natural Language
+</p>
+
+<p><strong>Abstract</strong>:
+Being able to query relational databases in natural language can be considered as one the holy grails in database research. Especially with the rise of large language models we seem to be even closer to reaching this goal. However, are we there yet? When we look at the performance of the best systems using academic benchmarks, we might believe that we have arrived. However, when we evaluate how these systems perform in real-world applications, we realize that we still have a long way to the summit.
+
+
+
+In this talk we provide insights into the fascinating world of applying natural language processing and machine learning techniques to tackle this fundamental database problem. First, we explain how pretrained language models can be used to translate natural language questions into SQL. Afterward, we show how we can automatically generate training datasets when working with new databases where little to no training data is available. Finally, we address the limits of current systems when dealing with real-world applications and sketch research directions of how to tackle these challenges.
+</p>
+
+<p><strong>Bio</strong>:
+Kurt Stockinger is currently a Visiting Scholar at University of Washington. In his parallel life across the Atlantic, he is a Professor of Computer Science, Director of Studies in Data Science and Head of the Intelligent Information Systems Group. He is also an external lecturer at University of Zurich. Kurt Stockinger's research focuses on Data Science with emphasis on Big Data, Natural Language Query Processing, Query Optimization and Quantum Computing. Essentially, his research interests are at the intersection of databases, natural language processing and machine learning. Previously Kurt Stockinger worked at Credit Suisse in Zurich, Switzerland, at Lawrence Berkeley National Laboratory in Berkeley, California, at California Institute of Technology, California as well as at CERN in Geneva, Switzerland. He holds a Ph.D. in computer science from CERN / University of Vienna.
+</p>
+
+<a href="https://www.youtube.com/watch?v=HkburfMt-0o">Recording</a>
 
 ---
 
@@ -69,6 +183,8 @@ In my 44 years building software, technology trends have dramatically changed wh
 <p><strong>Bio</strong>:
 Pat Helland has been building distributed systems, database systems, high-performance messaging systems, and multiprocessors since 1978, shortly after dropping out of UC Irvine without a bachelor's degree. That hasn't stopped him from having a passion for academics and publication. From 1982 to 1990, Pat was the chief architect for TMF (Transaction Monitoring Facility), the transaction logging and recovery systems for NonStop SQL, a message-based fault-tolerant system providing high-availability solutions for business critical solutions. In 1991, he moved to HaL Computers where he was chief architect for the Mercury Interconnect Architecture, a cache-coherent non-uniform memory architecture multiprocessor. In 1994, Pat moved to Microsoft to help the company develop a business providing enterprise software solutions. He was chief architect for MTS (Microsoft Transaction Server) and DTC (Distributed Transaction Coordinator). Starting in 2000, Pat began the SQL Service Broker project, a high-performance transactional exactly-once in-order message processing and app execution engine built deeply into Microsoft SQL Server 2005. From 2005-2007, he worked at Amazon on scalable enterprise solutions, scale-out user facing services, integrating product catalog feeds from millions of sellers, and highly-available eventually consistent storage. From 2007 to 2011, Pat was back at Microsoft working on a number of projects including Structured Streams in Cosmos. Structured streams kept metadata within the "big data" streams that were typically 10s of terabytes in size. This metadata allowed affinitized placement within the cluster as well as efficient joins across multiple streams. On launch, this doubled the work performed within the 250PB store. Pat also did the initial design for Baja, the distributed transaction support for a distributed event-processing engine implemented as an LSM atop structured streams providing transactional updates targeting the ingestion of "the entire web in one table" with changes visible in seconds. Starting in 2012, Pat has worked at Salesforce on database technology running within cloud environments. His current interests include latency bounding of online enterprise-grade transaction systems in the face of jitter, the management of metastability in complex environments, and zero-downtime upgrades to databases and stateful applications. In his spare time, Pat regularly writes for ACM Queue, Communications of the ACM, and various conferences. He has been deeply involved in the organization of the HPTS (High Performance Transactions Systems - www.hpts.ws) workshop since 1985. His blog is at pathelland.substack.com and he parsimoniously tweets with the handle @pathelland.
 </p>
+
+<a href="https://www.youtube.com/watch?v=xhsfPzY1ngs">Recording</a>
 
 ---
 
@@ -121,6 +237,8 @@ Recent years have seen an explosion in our ability to collect and catalog immens
 <p><strong>Bio</strong>:
 Juliana Freire is a Professor of Computer Science and Data Science at New York University.  She was the elected chair of the ACM Special Interest Group on Management of Data (SIGMOD), served as a council member of the Computing Research Association’s Computing Community Consortium (CCC), and was the NYU lead investigator for the Moore-Sloan Data Science Environment. She develops methods and systems that enable a wide range of users to obtain trustworthy insights from data. This spans topics in large-scale data analysis and integration, visualization, machine learning, provenance management, and web information discovery, and different application areas, including urban analytics, predictive modeling, and computational reproducibility. Freire has co-authored over 200 technical papers (including 11 award-winning publications), several open-source systems, and is an inventor of 12 U.S. patents. She is an ACM Fellow, a AAAS Fellow,  and a recipient of an NSF CAREER, two IBM Faculty awards, and a Google Faculty Research award.  She received the ACM SIGMOD Contributions Award in 2020. Her research has been funded by the National Science Foundation, DARPA, Department of Energy, National Institutes of Health, Sloan Foundation, Gordon and Betty Moore Foundation, W. M. Keck Foundation, Google, Amazon, AT&T Research, Microsoft Research, Yahoo! and IBM. She received a B.S. degree in computer science from the Federal University of Ceara (Brazil), and M.Sc. and Ph.D. degrees in computer science from the State University of New York at Stony Brook.
 </p>
+
+<a href="https://www.youtube.com/watch?v=9uc0JYpXyS4">Recording</a>
 
 ---
 
