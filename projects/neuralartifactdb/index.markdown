@@ -48,13 +48,13 @@ id: "projects"
 ## NeuralArtifactDB
 
 <p>
-Deep neural networks (DNNs) have gained widespread adoption in machine learning (ML) applications. Explaining these DNNs is crucial for practitioners to gain insights into the knowledge acquired by their models. Although numerous methods have been proposed for this purpose, they often fail to scale effectively with respect to the sizes of the datasets and models, leading to tedious model explanation and exploration. NeuralArtifactDB contains two projects on data management for efficient model explanation and exploration at scale: DeepEverest and MaskSearch.
+Deep neural networks (DNNs) have gained widespread adoption in machine learning (ML) applications. Explaining these DNNs is crucial for practitioners to gain insights into the knowledge acquired by their models. Although numerous methods have been proposed for this purpose, they often fail to scale effectively with respect to the sizes of datasets and models, leading to tedious model explanation and exploration. NeuralArtifactDB contains two projects on data management for efficient model explanation and exploration at scale: DeepEverest and MaskSearch.
 </p>
 
 ### DeepEverest
 
 <p>
-DeepEverest focuses on accelerating <i>interpretation by example</i> queries that return inputs (e.g., images) in the dataset that have certain neuron activation patterns, e.g., "given a group of neurons, find the top-k inputs that produce the highest activation values for this group of neurons", and "for any input and any group of neurons, use the activations of the neurons to identify the nearest neighbors based on the proximity in the space learned by the neurons". These queries help with understanding the functionality of neurons and neuron groups by tying that functionality to the input examples in the dataset. 
+DeepEverest focuses on accelerating <i>interpretation by example</i> queries that return inputs (e.g., images) in a dataset that have certain neuron activation patterns, e.g., "given a group of neurons, find the top-k inputs that produce the highest activation values for this group of neurons", and "for any input and any group of neurons, use the activations of the neurons to identify the nearest neighbors based on the proximity in the space learned by the neurons". These queries help with understanding the functionality of neurons and neuron groups by tying that functionality to the input examples in a dataset. 
 </p>
 
 <p>
