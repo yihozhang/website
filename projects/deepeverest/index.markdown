@@ -48,11 +48,11 @@ id: "projects"
 ## About DeepEverest
 
 <p>
-DNN interpretation is important for researchers and data scientists. While many approaches are being developed, they often do not scale with the size of the datasets and models. The problem that we address in this paper is the efficient execution of a common class of DNN interpretation queries.
+DNN interpretation is important for researchers and data scientists. While many approaches are being developed, they often do not scale with the size of datasets and models. The problem that we address in this paper is the efficient execution of a common class of DNN interpretation queries.
 </p>
 
 <p>
-DeepEverest focuses on accelerating <i>interpretation by example</i> queries that return inputs (e.g., images) in the dataset that have certain neuron activation patterns, e.g., "given a group of neurons, find the top-k inputs that produce the highest activation values for this group of neurons", and "for any input and any group of neurons, use the activations of the neurons to identify the nearest neighbors based on the proximity in the space learned by the neurons". These queries help with understanding the functionality of neurons and neuron groups by tying that functionality to the input examples in the dataset. 
+DeepEverest focuses on accelerating <i>interpretation by example</i> queries that return inputs (e.g., images) in a dataset that have certain neuron activation patterns, e.g., "given a group of neurons, find the top-k inputs that produce the highest activation values for this group of neurons", and "for any input and any group of neurons, use the activations of the neurons to identify the nearest neighbors based on the proximity in the space learned by the neurons". These queries help with understanding the functionality of neurons and neuron groups by tying that functionality to the input examples in a dataset. 
 </p>
 
 <p>
