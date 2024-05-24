@@ -11,6 +11,13 @@ The affiliates program strengthens collaborations between the UW Database Group 
 
 We are in the process of restarting our affiliates program post pandemic.
 
+## UWDB Affiliate Members
+
+* Amazon
+* Teradata
+* Microsoft
+* Western Digital
+
 
 ##  Member Benefits
 
