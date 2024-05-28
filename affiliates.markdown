@@ -16,6 +16,7 @@ We are in the process of restarting our affiliates program post pandemic.
 * Amazon
 * Teradata
 * Microsoft
+* MotherDuck
 * Western Digital
 
 
